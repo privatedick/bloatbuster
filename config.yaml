@@ -1,0 +1,23 @@
+exclude_extensions:
+  - .pyc
+  - .log
+  - .tmp
+  - .bak
+  - .swp
+  - .cache
+  - .DS_Store
+  - .tar.gz
+  - .zip
+  - .orig
+  - .crdownload
+  - .part
+  - .o
+  - .obj
+  - .exe
+  - .class
+  - .iso
+  - .dmg
+  - Thumbs.db
+  - .lock
+large_file_threshold: 52428800  # 50 MB
+many_files_threshold: 100
